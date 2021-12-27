@@ -1,0 +1,40 @@
+# "Saliery Glan" In header spelling correct
+
+# Misc new page from header & link the tabs to each page
+
+
+#http://www.kolkatamaxillofacial.com/fellowship.html
+The next candidate for the Fellowship Programme will start from 1st August 
+replace with 
+Program starts from November each year
+same page staff.We- spacing
+
+
+Our Team Page
+Dr Arijit Bose
+Dr Arijit Bose MS, FRCS, FRCS Emergency Medicine Director, Emergency / Life Support Training Services.
+
+wud be 
+
+Dr Arijit Bose MS, FRCS, FRCS Emergency Medicine
+Director, Emergency / Life Support Training Services.
+
+Dr Soumo Mitra MDS Orthodontics Consultant Orthodontist. Special Interest, Cleft and Surgical Orthodontics.
+
+wud be
+
+Dr Soumo Mitra MDS Orthodontics 
+Consultant Orthodontist. Special Interest, Cleft and Surgical Orthodontics.
+
+Call Now : 91 - 9836936546 / 9830080174 
+wud be 91-9903985845/  9830080174 
+
+# Remove follow us
+
+
+# For more Details : +91 98369 36546  in contact us same number as in home page 1st number
+
+# In main gallery page put the same text as " warning messg" & a back  button
+
+
+# Gallery not in order check with ranadepe if needed

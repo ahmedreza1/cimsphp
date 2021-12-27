@@ -1,0 +1,16 @@
+
+RewriteEngine on
+
+RewriteCond %{HTTP_HOST} ^srijonmukherji\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.srijonmukherji\.com$
+RewriteCond %{REQUEST_URI} !^/\.well-known/acme-challenge/[0-9a-zA-Z_-]+$
+RewriteCond %{REQUEST_URI} !^/\.well-known/cpanel-dcv/[0-9a-zA-Z_-]+$
+RewriteCond %{REQUEST_URI} !^/\.well-known/pki-validation/[A-F0-9]{32}\.txt(?:\ Comodo\ DCV)?$
+RewriteRule ^/?$ "http\:\/\/www\.kolkatamaxillofacial\.com\/" [R=301,L]
+
+RewriteCond %{HTTP_HOST} ^srijonmukherji\.kolkatamaxillofacial\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.srijonmukherji\.kolkatamaxillofacial\.com$
+RewriteCond %{REQUEST_URI} !^/\.well-known/acme-challenge/[0-9a-zA-Z_-]+$
+RewriteCond %{REQUEST_URI} !^/\.well-known/cpanel-dcv/[0-9a-zA-Z_-]+$
+RewriteCond %{REQUEST_URI} !^/\.well-known/pki-validation/[A-F0-9]{32}\.txt(?:\ Comodo\ DCV)?$
+RewriteRule ^/?$ "http\:\/\/www\.kolkatamaxillofacial\.com\/" [R=301,L]
